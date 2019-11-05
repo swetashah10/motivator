@@ -18,4 +18,8 @@ For every category, have some motivating statements mapped to the keywords.
 
 Purpose of the application is to provide a virtual "friend" who has a listening ear and not passing any judgements. 
 
-Benefits: Will help shift from negative to positive attitude and can get people to express more freely without word-shaming. 
+Benefits: 
+1) Will help shift from negative to positive attitude and can get people to express more freely without word-shaming. 
+2) Provide reporting capability on your behavioral/thinking traits and corrective measures so that time is not lost in thinking negative!
+
+
