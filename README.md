@@ -1,4 +1,4 @@
-# motivator
+# Motivator
 Interactively converses and motivates using some sentiment analysis
 
 Scenario:
